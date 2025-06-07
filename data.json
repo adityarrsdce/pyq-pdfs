@@ -2,16 +2,23 @@
   "CSE": {
     "1st Semester": {
       "DSA": {
-        "2021": "https://raw.githubusercontent.com/USERNAME/pyq-pdfs/main/dsa/DSA-2021.pdf",
-        "2022": "https://raw.githubusercontent.com/USERNAME/pyq-pdfs/main/dsa/DSA-2022.pdf"
+        "2021": "https://github.com/adityarajdev/pyq-pdfs/raw/main/cse/1st/dsa/DSA-2021.pdf",
+        "2022": "https://github.com/adityarajdev/pyq-pdfs/raw/main/cse/1st/dsa/DSA-2022.pdf"
       },
       "OOPS": {
-        "2021": "https://raw.githubusercontent.com/USERNAME/pyq-pdfs/main/oops/OOPS-2021.pdf"
+        "2021": "https://github.com/adityarajdev/pyq-pdfs/raw/main/cse/1st/oops/OOPS-2021.pdf"
       }
     },
     "4th Semester": {
       "OS": {
-        "2021": "https://raw.githubusercontent.com/USERNAME/pyq-pdfs/main/os/OS-2021.pdf"
+        "2022": "https://github.com/adityarajdev/pyq-pdfs/raw/main/cse/4th/os/OS-2022.pdf"
+      }
+    }
+  },
+  "ECE": {
+    "2nd Semester": {
+      "MATHS-3": {
+        "2021": "https://github.com/adityarajdev/pyq-pdfs/raw/main/ece/2nd/maths-3/MATHS-3-2021.pdf"
       }
     }
   }
