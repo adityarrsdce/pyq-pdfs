@@ -1,11 +1,15 @@
 {
-  "CSE": {
-    "1st Semester": {
-      "MATHS": {
-        "2021": "https://example.com/path-to-maths-2021.pdf"
-      },
-      "DSA": {
-        "2021": "https://example.com/path-to-dsa-2021.pdf"
+  "branches": {
+    "CSE": {
+      "1st Semester": {
+        "MATHS": {
+          "2021": "https://example.com/maths-2021.pdf"
+        },
+        "DSA": {
+          "2019": "https://example.com/dsa-2019.pdf",
+          "2020": "https://example.com/dsa-2020.pdf",
+          "2022": "https://example.com/dsa-2022.pdf"
+        }
       }
     }
   }
