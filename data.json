@@ -1,17 +1,11 @@
 {
   "CSE": {
     "1st Semester": {
-      "DSA": {
-        "2021": "https://raw.githubusercontent.com/yourusername/yourrepo/main/pdfs/DSA-2021.pdf",
-        "2022": "https://raw.githubusercontent.com/yourusername/yourrepo/main/pdfs/DSA-2022.pdf"
+      "MATHS": {
+        "2021": "https://example.com/path-to-maths-2021.pdf"
       },
-      "OOPS": {
-        "2021": "https://raw.githubusercontent.com/yourusername/yourrepo/main/pdfs/OOPS-2021.pdf"
-      }
-    },
-    "2nd Semester": {
-      "DBMS": {
-        "2021": "https://raw.githubusercontent.com/yourusername/yourrepo/main/pdfs/DBMS-2021.pdf"
+      "DSA": {
+        "2021": "https://example.com/path-to-dsa-2021.pdf"
       }
     }
   }
