@@ -10,7 +10,14 @@
           "2020": "https://example.com/dsa-2020.pdf",
           "2022": "https://example.com/dsa-2022.pdf"
         }
-      }
+      },
+      "2nd Semester" :{},
+      "3rd Semester" :{},
+      "4th Semester" :{},
+      "5th Semester" :{},
+      "6th Semester" :{},
+      "7th Semester" :{},
+      "8th Semester" :{}
     },
     "EEE": {
       "1st Semester": {
@@ -22,7 +29,71 @@
           "2020": "https://example.com/dsa-2020.pdf",
           "2022": "https://example.com/dsa-2022.pdf"
         }
-      }
+      },
+      "2nd Semester" :{},
+      "3rd Semester" :{},
+      "4th Semester" :{},
+      "5th Semester" :{},
+      "6th Semester" :{},
+      "7th Semester" :{},
+      "8th Semester" :{}
+    },
+    "CHEMECAL":{
+      "1st Semester": {
+        "MATHS": {
+          "2021": "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/CSE/3rd/dsa/DSA-2019.pdf"
+        },
+        "DSA": {
+          "2019": "https://example.com/dsa-2019.pdf",
+          "2020": "https://example.com/dsa-2020.pdf",
+          "2022": "https://example.com/dsa-2022.pdf"
+        }
+      },
+      "2nd Semester" :{},
+      "3rd Semester" :{},
+      "4th Semester" :{},
+      "5th Semester" :{},
+      "6th Semester" :{},
+      "7th Semester" :{},
+      "8th Semester" :{}
+    },
+    "MECHANICLA": {
+      "1st Semester": {
+        "MATHS": {
+          "2021": "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/CSE/3rd/dsa/DSA-2019.pdf"
+        },
+        "DSA": {
+          "2019": "https://example.com/dsa-2019.pdf",
+          "2020": "https://example.com/dsa-2020.pdf",
+          "2022": "https://example.com/dsa-2022.pdf"
+        }
+      },
+      "2nd Semester" :{},
+      "3rd Semester" :{},
+      "4th Semester" :{},
+      "5th Semester" :{},
+      "6th Semester" :{},
+      "7th Semester" :{},
+      "8th Semester" :{}
+    },
+    "CIVIL": {
+      "1st Semester": {
+        "MATHS": {
+          "2021": "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/CSE/3rd/dsa/DSA-2019.pdf"
+        },
+        "DSA": {
+          "2019": "https://example.com/dsa-2019.pdf",
+          "2020": "https://example.com/dsa-2020.pdf",
+          "2022": "https://example.com/dsa-2022.pdf"
+        }
+      },
+      "2nd Semester" :{},
+      "3rd Semester" :{},
+      "4th Semester" :{},
+      "5th Semester" :{},
+      "6th Semester" :{},
+      "7th Semester" :{},
+      "8th Semester" :{}
     }
   }
 }
