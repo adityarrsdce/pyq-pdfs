@@ -1,5 +1,4 @@
 {
-  "version": "1.0.2",         // ✅ Must be newer than app version
-  "url": "https://example.com/app.apk",  // ✅ Valid link
-  "changelog": "Bug fixes"
+  "latestVersion": "1.1.0",
+  "apkUrl": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.1.0/app-release.apk"
 }
