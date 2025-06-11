@@ -1,4 +1,5 @@
 {
-  "latestVersion": "2.1.0",
-  "apkUrl": "https://github.com/adityarrsdce/pyq-pdfs/edit/main/update.json"
+  "version": "1.0.2",         // ✅ Must be newer than app version
+  "url": "https://example.com/app.apk",  // ✅ Valid link
+  "changelog": "Bug fixes"
 }
