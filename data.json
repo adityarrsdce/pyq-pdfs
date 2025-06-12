@@ -72,9 +72,11 @@
         "Maths ||| (PDE,PROBABILITY AND STATISTICS)" : {},
         "Biology" : {},
         "Basic Electronics Engineering" : {},
-        "Engineering Mechanics" : {"https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/MECHANICAL/3rd/Engineering%20Mechanics%20/Engineering%20Mechanics.pdf"},
+        "Engineering Mechanics" : {
+         "2019" : "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/MECHANICAL/3rd/Engineering%20Mechanics%20/Engineering%20Mechanics.pdf"
+        },
         "Thermodynamics" : {
-          "2019" : {"https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/MECHANICAL/3rd/Thermodynamics%20/Thermodynamics.pdf"}
+          "2019" : "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/MECHANICAL/3rd/Thermodynamics%20/Thermodynamics.pdf"
         }
       },
       "4th Semester": {},
