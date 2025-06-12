@@ -3,7 +3,7 @@
     "CSE": {
       "1st Semester": {
         "MATHS": {
-          "2021": "https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/CSE/3rd/dsa/DSA-2019.pdf"
+          "2021": ""
         }
       },
       "2nd Semester": {},
@@ -67,7 +67,16 @@
     "MECHANICAL": {
       "1st Semester": {},
       "2nd Semester": {},
-      "3rd Semester": {},
+      "3rd Semester": {
+        "Machine Drawing":{},
+        "Maths ||| (PDE,PROBABILITY AND STATISTICS)" : {},
+        "Biology" : {},
+        "Basic Electronics Engineering" : {},
+        "Engineering Mechanics" : {"https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/MECHANICAL/3rd/Engineering%20Mechanics%20/Engineering%20Mechanics.pdf"},
+        "Thermodynamics" : {
+          "2019" : {"https://abzxtsqmzuqzedpaaxsf.supabase.co/storage/v1/object/public/pyq-pdfs/MECHANICAL/3rd/Thermodynamics%20/Thermodynamics.pdf"}
+        }
+      },
       "4th Semester": {},
       "5th Semester": {},
       "6th Semester": {},
