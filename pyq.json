@@ -1,25 +1,21 @@
 {
   "branches": {
-    "Computer Science": {
-      "3rd Semester": {
+    "CSE": {
+      "3rd": {
         "DSA": {
-          "2019": "https://your-supabase-link.com/CSE/3rd/dsa/DSA-2019.pdf",
-          "2020": "https://your-supabase-link.com/CSE/3rd/dsa/DSA-2020.pdf"
+          "2019": "https://link-to-pdf.com/cse/3rd/dsa/2019.pdf",
+          "2022": "https://...",
+          "2023": "https://..."
         },
         "Technical Writing": {
-          "2019": "https://your-supabase-link.com/CSE/3rd/tw/TW-2019.pdf"
-        }
-      },
-      "4th Semester": {
-        "DBMS": {
-          "2021": "https://your-supabase-link.com/CSE/4th/dbms/DBMS-2021.pdf"
+          "2023": "https://..."
         }
       }
     },
-    "Mechanical": {
-      "3rd Semester": {
+    "MECHANICAL": {
+      "3rd": {
         "Thermodynamics": {
-          "2018": "https://your-supabase-link.com/ME/3rd/thermo/Thermo-2018.pdf"
+          "2023": "https://..."
         }
       }
     }
