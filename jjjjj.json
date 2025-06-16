@@ -1,0 +1,39 @@
+{
+  "BTech": {
+    "1st Semester": {
+      "Maths": {
+        "2021": "https://example.com/btech/1st/math/2021.pdf",
+        "2022": "https://example.com/btech/1st/math/2022.pdf"
+      },
+      "Physics": {
+        "2021": "https://example.com/btech/1st/physics/2021.pdf"
+      }
+    },
+    "2nd Semester": {
+      "English": {
+        "2020": "https://example.com/btech/2nd/english/2020.pdf"
+      }
+    }
+  },
+  "Diploma": {
+    "1st Semester": {
+      "Maths": {
+        "2023": "https://example.com/diploma/1st/math/2023.pdf"
+      }
+    }
+  },
+  "Nursing": {
+    "1st Semester": {
+      "Anatomy": {
+        "2019": "https://example.com/nursing/1st/anatomy/2019.pdf"
+      }
+    }
+  },
+  "ITI": {
+    "1st Semester": {
+      "Workshop": {
+        "2021": "https://example.com/iti/1st/workshop/2021.pdf"
+      }
+    }
+  }
+}
