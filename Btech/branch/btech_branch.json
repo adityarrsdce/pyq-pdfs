@@ -1,5 +1,5 @@
 {
-  "branches": ["CSE", "ECE", "Civil"],
+  "branches": ["CSE", "ECE", "CIVIL","CHEMICAL"],
   "semesters": ["1st Semester", "2nd Semester", "3rd Semester"],
   "subjects": {
     "CSE": {
