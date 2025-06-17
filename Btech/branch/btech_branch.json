@@ -4,10 +4,15 @@
   "subjects": {
     "CSE": {
       "1st Semester": ["Maths", "Physics"],
-      "2nd Semester": ["DSA", "English"]
+      "2nd Semester": ["DSA", "English"],
+      "3rd Semester": ["DBMS", "OS"]
     },
     "ECE": {
-      "1st Semester": ["Electronics"]
+      "1st Semester": ["Electronics"],
+      "3rd Semester": ["Digital Logic", "Signals"]
+    },
+    "Civil": {
+      "3rd Semester": ["Strength of Materials", "Surveying"]
     }
   },
   "years": ["2019", "2020", "2021", "2022", "2023"]
