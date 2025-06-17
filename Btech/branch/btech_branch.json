@@ -1,19 +1,34 @@
 {
-  "branches": ["CSE", "ECE", "CIVIL","CHEMICAL"],
-  "semesters": ["1st Semester", "2nd Semester", "3rd Semester"],
-  "subjects": {
+  "BRANCHES": ["CSE", "EEE", "CIVIL", "CHEMICAL", "MECHANICAL"],
+  "SEMESTERS": [
+    "1ST SEMESTER",
+    "2ND SEMESTER",
+    "3RD SEMESTER",
+    "4TH SEMESTER",
+    "5TH SEMESTER",
+    "6TH SEMESTER",
+    "7TH SEMESTER",
+    "8TH SEMESTER"
+  ],
+  "SUBJECTS": {
     "CSE": {
-      "1st Semester": ["Maths", "Physics"],
-      "2nd Semester": ["DSA", "English"],
-      "3rd Semester": ["DBMS", "OS"]
+      "1ST SEMESTER": ["MATHS", "PHYSICS"],
+      "2ND SEMESTER": ["DSA", "ENGLISH"],
+      "3RD SEMESTER": ["DBMS", "OS"],
+      "4TH SEMESTER": ["DBMS", "OS"],
+      "5TH SEMESTER": ["DBMS", "OS"],
+      "6TH SEMESTER": ["DBMS", "OS"],
+      "7TH SEMESTER": ["DBMS", "OS"],
+      "8TH SEMESTER": ["DBMS", "OS"]
     },
     "ECE": {
-      "1st Semester": ["Electronics"],
-      "3rd Semester": ["Digital Logic", "Signals"]
+      "1ST SEMESTER": ["ELECTRONICS"],
+      "2ND SEMESTER": [],
+      "3RD SEMESTER": ["DIGITAL LOGIC", "SIGNALS"]
     },
-    "Civil": {
-      "3rd Semester": ["Strength of Materials", "Surveying"]
+    "CIVIL": {
+      "3RD SEMESTER": ["STRENGTH OF MATERIALS", "SURVEYING"]
     }
   },
-  "years": ["2019", "2020", "2021", "2022", "2023"]
+  "YEARS": ["2019", "2020", "2021", "2022", "2023"]
 }
