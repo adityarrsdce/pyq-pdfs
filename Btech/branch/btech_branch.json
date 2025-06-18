@@ -1,34 +1,7 @@
 {
-  "BRANCHES": ["CSE", "EEE", "CIVIL", "CHEMICAL", "MECHANICAL"],
-  "SEMESTERS": [
-    "1ST SEMESTER",
-    "2ND SEMESTER",
-    "3RD SEMESTER",
-    "4TH SEMESTER",
-    "5TH SEMESTER",
-    "6TH SEMESTER",
-    "7TH SEMESTER",
-    "8TH SEMESTER"
-  ],
-  "SUBJECTS": {
-    "CSE": {
-      "1ST SEMESTER": ["MATHS", "PHYSICS"],
-      "2ND SEMESTER": ["DSA", "ENGLISH"],
-      "3RD SEMESTER": ["TECHNICAL WRITING","DSA","MATHS","OBJECT ORIENTED PROGRAMMING", "ANALOG ELECTRONIC CIRCUITS"],
-      "4TH SEMESTER": ["DBMS", "OS"],
-      "5TH SEMESTER": ["DBMS", "OS"],
-      "6TH SEMESTER": ["DBMS", "OS"],
-      "7TH SEMESTER": ["DBMS", "OS"],
-      "8TH SEMESTER": ["DBMS", "OS"]
-    },
-    "ECE": {
-      "1ST SEMESTER": ["ELECTRONICS"],
-      "2ND SEMESTER": [],
-      "3RD SEMESTER": ["DIGITAL LOGIC", "SIGNALS"]
-    },
-    "CIVIL": {
-      "3RD SEMESTER": ["STRENGTH OF MATERIALS", "SURVEYING"]
-    }
-  },
-  "YEARS": ["2019", "2020", "2021", "2022", "2023"]
+  "courses": {
+    "BTech": "https://example.com/json/btech.json",
+    "Diploma": "https://example.com/json/diploma.json",
+    "Nursing": "https://example.com/json/nursing.json"
+  }
 }
